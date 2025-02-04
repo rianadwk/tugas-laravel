@@ -22,7 +22,7 @@
               />
           </div>
           <div class="info">
-              <a href="#" class="d-block">Ragil Albana</a>
+              <a href="#" class="d-block">Riana</a>
           </div>
       </div>
 
